@@ -1,0 +1,22 @@
+{
+  "name": "try-node-test-examples",
+  "version": "1.0.0",
+  "description": "try nodejs with jasmine test examples",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "jasmine",
+    "nodejs",
+    "kata",
+    "tdd",
+    "bdd",
+    "learn"
+  ],
+  "author": "marekj",
+  "license": "ISC"
+}
